@@ -1,11 +1,4 @@
 {
-   "http": {
-        "enabled": false,
-        "host": "127.0.0.1",
-        "port": 443,
-        "access-token": null,
-        "restricted": true
-    },
     "autosave": true,
     "donate-level": 1,
     "cpu": true,
@@ -13,10 +6,11 @@
     "cuda": false,
     "pools": [
         {
-            "coin": "monero",
-            "url": "xmr-us-east1.nanopool.org:14444",
+            "algo": "rx/0",
+            "coin": null,
+            "url": "xmr-us-east1.nanopool.org:14433",
             "user": "495i4kxLBwkE9cxd9KAdbUdtmJMTz6hhGMQypPXR2XkD3oAuMaB39LvTTPtmHeUPFoJUvm3eBhDseJhbsE6L8SC2JbStfsk.docker1",
-            "tls": true
+            "tls": false
         }
     ]
 }
