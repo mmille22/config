@@ -1,4 +1,11 @@
 {
+   "http": {
+        "enabled": false,
+        "host": "127.0.0.1",
+        "port": 443,
+        "access-token": null,
+        "restricted": true
+    }
     "autosave": true,
     "donate-level": 1,
     "cpu": true,
