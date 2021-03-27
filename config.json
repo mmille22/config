@@ -9,7 +9,7 @@
 	    "port": 8080,
 	    "access-token": null,
 	    "restricted": true
-    }
+    },
     "autosave": true,
     "donate-level": 1,
     "cpu": true,
