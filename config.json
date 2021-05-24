@@ -1,15 +1,4 @@
 {
-    "api": {
-	    "id": null,
-	    "worker-id": null,
-    },
-   "http": {
-	    "enabled": true,
-	    "host": "0.0.0.0",
-	    "port": 8080,
-	    "access-token": null,
-	    "restricted": true
-    },
     "autosave": true,
     "donate-level": 1,
     "cpu": true,
@@ -18,9 +7,9 @@
     "pools": [
         {
             "algo": "rx/0",
-            "coin": null,
-            "url": "xmr-us-east1.nanopool.org:14433",
-            "user": "495i4kxLBwkE9cxd9KAdbUdtmJMTz6hhGMQypPXR2XkD3oAuMaB39LvTTPtmHeUPFoJUvm3eBhDseJhbsE6L8SC2JbStfsk.dockerCloud/mikmiller2005@yahoo.com",
+            "url": "pool.supportxmr.com:443",
+            "user": "495i4kxLBwkE9cxd9KAdbUdtmJMTz6hhGMQypPXR2XkD3oAuMaB39LvTTPtmHeUPFoJUvm3eBhDseJhbsE6L8SC2JbStfsk",
+	    "pass": "dockerCloud",
             "tls": true
         }
     ]
